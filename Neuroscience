@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <p>
+        <h1>Neuroscience</h1>
+        Neuroscience, also known as <b>Neural Science</b>, is the study of how the nervous system develops, its structure, and what it does.
+             Neuroscientists focus on the brain and its impact on behavior and <b>cognitive functions</b>.
+        
+    </p>
+    <img src=" /Users/vanshika/Downloads/neur.jpeg" alt="My pic">
+<div> <h1> My hobbies</h1>
+    <u1><b><i>D</i>ancing</b></u1><br>
+    <u1>drawing</u1><br>
+    <u1>rafting</u1><br>
+    <h1>skills</h1><br>
+    <o1>programming</o1><br>
+    <o1>
+        cloud computing
+    </o1><br>
+    </div>
+    <table>
+        <tr>
+            <th>SNo</th>
+            <th>Educational details</th>
+            <th>Grade</th>
+        </tr>
+        <tr>
+            <td>1</td>
+            <td>highschool</td>
+            <td>94%</td>
+
+        </tr>
+        <tr>
+            <td>2</td>
+            <td>inter</td>
+            <td>91%</td>
+        </tr>
+    </table>
+    <p><a href="mailto:mahaksingh3030@gmail.com">Send email</a></p>
+    <p><a href="tel:8279325636"> call at : 8279325636</a></p>
+<b>T</b><sub>e</sub><u>x</u><sup>t</sup> Formatting
+<p><a href="https://developer.mozilla.org/en-US/docs/Web/HTML">html developer </a></p>
+<p><a href="https://www.google.com/search?q=gla+university&rlz=1C5CHFA_enIN1003IN1003&oq=gla&gs_lcrp=EgZjaHJvbWUqDwgAECMYJxjjAhiABBiKBTIPCAAQIxgnGOMCGIAEGIoFMgwIARAuGCcYgAQYigUyBggCEEUYOTINCAMQABiDARixAxiABDINCAQQABiDARixAxiABDINCAUQABiDARixAxiABDINCAYQABiDARixAxiABDIHCAcQABiABDINCAgQABiDARixAxiABDINCAkQABiDARixAxiABNIBCTI2MTFqMGoxNagCCLACAQ&sourceid=chrome&ie=UTF-8">gla university</a></p>
+
+
+</body>
+</html>
